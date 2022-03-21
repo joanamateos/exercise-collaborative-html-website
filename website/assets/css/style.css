@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 #Navpadding {
     padding: 0;
@@ -12,8 +12,12 @@ body{
     margin-left: 20%;
     font-size: 90%;
     font-weight: bold;
-    font-family: 
   }
-  #botonserv {
-    align-items: right;
+  #H3service{
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  #pservice{
+    margin-left: 100px;
+    margin-right: 100px;
   }
