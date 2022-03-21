@@ -1,7 +1,38 @@
 body{
-    background: white;
     font-family: Arial, Helvetica, sans-serif;
+    background: #ffffff;
 }
+.cardtittlewalter{
+
+    text-align: center;
+    vertical-align: middle;
+}
+.card1{
+    
+    margin-bottom: 50px;
+    background: #ffffff;
+    display: flex;
+}
+.card2{
+    background: #ffffff;
+    display: flex;
+}
+.fotorounded {
+    border-radius: 50%;
+}
+.card-heading{
+    margin-left: 100px;
+}
+.card-service{
+    margin-right: 100px;
+}
+.fotoh{
+    margin-right: 100px;
+}
+.fotos{
+    margin-left: 100px;
+}
+    
 #Navpadding {
     padding: 0;
 }
