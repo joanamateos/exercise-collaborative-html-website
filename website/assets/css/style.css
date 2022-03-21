@@ -4,7 +4,9 @@ body{
 }
 
 .porfolio {
-font-weight: bold;}
+font-weight: bold;
+font-size: 50px !important;
+text-align: left;}
 
 
 .card-title {color: rgb(76, 117, 194);
