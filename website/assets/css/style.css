@@ -1,7 +1,27 @@
 body{
-    background: #ffffff;
+    background: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+#Navpadding {
+    padding: 0;
+}
+#divcontact {
+    border-radius: 5px;
+    background-color: #F5F5F5;
+    padding: 20px;
+    width: 50%;
+    margin-left: 20%;
+    font-size: 90%;
+    font-weight: bold;
+  }
+  #H3service{
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  #pservice{
+    margin-left: 100px;
+    margin-right: 100px;
+  }
 
 .porfolio {
 font-weight: bold;
