@@ -1,5 +1,5 @@
 <!-- your html code here -->
-
+<form>
 <div>
   <H3>Contact</H3>
   <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent
@@ -7,15 +7,19 @@
 </div>
 <div id="divcontact">
   <div class="row mb-3">
-    <label for="inputEmail3" class="col-sm-1 col-form-label">Your E-mail</label>
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Your E-mail</label>
     <div class="col-sm-10">
       <input type="email" class="form-control" id="inputEmail3" placeholder="Your email">
     </div>
   </div>
   <div class="row mb-3">
-    <label for="exampleFormControlTextarea1" class="col-sm-1 col-form-label">Your message</label>
+    <label for="exampleFormControlTextarea1" class="col-sm-2 col-form-label">Your message</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputPassword3" placeholder="Please enter your message here">
+      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Please enter your message here..."></textarea>
     </div>
   </div>
+  <div class="d-flex flex-row-reverse bd-highlight">
+  <button type="submit" class="btn btn-primary">Sign in</button>
+  </div>
 </div>
+</form>
